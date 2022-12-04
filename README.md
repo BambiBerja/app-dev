@@ -3,9 +3,11 @@ My first repository
 
 
 # Heneral Luna
+
 ---
 
 ![alt text](https://nindotkaayo.files.wordpress.com/2015/09/heneral-luna.jpg)
+
 ---
 
 
